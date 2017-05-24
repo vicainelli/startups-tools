@@ -1,2 +1,2 @@
-# startups-tools
-Curated lists of the best startup tools
+# Startups Tools
+Uma lista com recursos para você começar <u>a sua startup</u> o seu projeto.
