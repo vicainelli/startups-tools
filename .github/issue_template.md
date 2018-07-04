@@ -1,2 +1,0 @@
-- [Tool Name](URL)
-- Short description about this tool/resource
